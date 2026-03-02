@@ -59,3 +59,4 @@ python main.py
 
 - Weitere inhaltliche Erklärungen sowie alle relevanten Ergebnisse, Beweise und Definitionen sind in der zugehörigen Masterarbeit zu finden.
 - Zu große .pdf Dateien oder zu lange Listen mit Ergebnissen sind nicht in results abgespeichert, können aber jederzeit über die .toml deterministisch reproduziert werden.
+- Kontakt: tarik_el_salim@live.de
