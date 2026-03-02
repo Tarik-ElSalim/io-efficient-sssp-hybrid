@@ -1,0 +1,93 @@
+{
+  "meta": {
+    "dirname": "Barabasi_nodes_16777216_edges_268435215_weights_Uniform_seed_23"
+  },
+  "instance": {
+    "generator": "Barabasi",
+    "node_count": 16777216,
+    "seed": 23,
+    "start_node_seed": 5,
+    "distribution": "Uniform",
+    "prob": 0.0,
+    "radius": 0.0,
+    "barabasi_m": 16,
+    "limit": -1
+  },
+  "graph": {
+    "n_nodes": 16777216,
+    "n_edges": 268435215,
+    "start_node": 16136742,
+    "reach_ratio": 0.22073954343795776,
+    "reachable_n": 3703396,
+    "blocksize": 512,
+    "e_b": 524288
+  },
+  "baselines": {
+    "io_dijkstra": 3703396,
+    "io_bellman_full": 17301504
+  },
+  "dijkstra_best_switch": {
+    "switch_point_best_single_switch": 3703396,
+    "io_best_single_switch": 3703396.0
+  },
+  "bellman_ford": {
+    "iters_done": 33,
+    "io_full": 17301504
+  },
+  "multi_switch": {
+    "io_multi_switch": 3703396,
+    "num_phases": 2
+  },
+  "greedy_hybrid": {
+    "io_greedy_hybrid": -1,
+    "len": 1,
+    "num_bf": 0,
+    "num_dj": 0
+  },
+  "hybrid_opt_with_ip": {
+    "io_hybrid_opt": -1,
+    "is_spdag?": false
+  },
+  "landmark": {
+    "io_landmark": 17505074,
+    "landmark_R_R2": 16,
+    "landmark_seed": 42
+  },
+  "stats": {
+    "level_counts": [
+      1,
+      16,
+      215,
+      1815,
+      10707,
+      41282,
+      110797,
+      223720,
+      357928,
+      467178,
+      520967,
+      504454,
+      435040,
+      342802,
+      248579,
+      169068,
+      108536,
+      66956,
+      39991,
+      23448,
+      13482,
+      7712,
+      4283,
+      2240,
+      1167,
+      545,
+      235,
+      132,
+      58,
+      26,
+      11,
+      4,
+      1
+    ]
+  }
+}

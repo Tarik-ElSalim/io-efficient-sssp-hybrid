@@ -1,0 +1,109 @@
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 32
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 45
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 64
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 91
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 128
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 181
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 256
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 362
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 512
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 724
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 1024
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 19
+limit = -1

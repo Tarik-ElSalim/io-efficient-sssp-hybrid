@@ -1,0 +1,459 @@
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 65536
+prob = 0.0002441443503471428
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 65536
+prob = 0.0002441443503471428
+radius = 0.0
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 65536
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 65536
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 65536
+prob = 0.0
+radius = 0.0088127707209447
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 65536
+prob = 0.0
+radius = 0.0088127707209447
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 65536
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 65536
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 262144
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 262144
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 1048576
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 1048576
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 4194304
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 4194304
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 262144
+prob = 6.103538908371672e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 262144
+prob = 6.103538908371672e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 262144
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 262144
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 262144
+prob = 0.0
+radius = 0.004406972688675211
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 262144
+prob = 0.0
+radius = 0.004406972688675211
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 1048576
+prob = 1.525880361443025e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 1048576
+prob = 1.525880361443025e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 1048576
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 1048576
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 1048576
+prob = 0.0
+radius = 0.0022038666116191655
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 1048576
+prob = 0.0
+radius = 0.0022038666116191655
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 4194304
+prob = 3.814697720372372e-06
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 4194304
+prob = 3.814697720372372e-06
+radius = 0.0
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 4194304
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 4194304
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 4194304
+prob = 0.0
+radius = 0.0011019329117273589
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 4194304
+prob = 0.0
+radius = 0.0011019329117273589
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 16777216
+prob = 9.536743732496722e-07
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 16777216
+prob = 9.536743732496722e-07
+radius = 0.0
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 16777216
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 16777216
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 16777216
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 16777216
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 33554432
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "ScaleFree"
+node_count = 33554432
+prob = -1.0
+radius = -1.0
+barabasi_m = -1
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 33554432
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Barabasi"
+node_count = 33554432
+prob = 0.0
+radius = 0.0
+barabasi_m = 16
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 33554432
+prob = 4.768371724139801e-07
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 33554432
+prob = 4.768371724139801e-07
+radius = 0.0
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 16777216
+prob = 0.0
+radius = 0.0005509664066034345
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = -1
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 16777216
+prob = 0.0
+radius = 0.0005509664066034345
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = -1

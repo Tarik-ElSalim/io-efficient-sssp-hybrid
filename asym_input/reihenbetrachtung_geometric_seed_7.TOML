@@ -1,0 +1,249 @@
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 1024
+prob = 0.0
+radius = 0.070558158584638431
+barabasi_m = 0
+distribution = "Exp"
+seed = 7
+limit = 32
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 1448
+prob = 0.0
+radius = 0.059326781647848846
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 38
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 2048
+prob = 0.0
+radius = 0.049879964262730982
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 45
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 2896
+prob = 0.0
+radius = 0.041943123669117087
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 54
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 4096
+prob = 0.0
+radius = 0.035266154184982204
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 64
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 5793
+prob = 0.0
+radius = 0.029653146171288051
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 76
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 8192
+prob = 0.0
+radius = 0.024935414508458889
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 91
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 11585
+prob = 0.0
+radius = 0.02096794074123369
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 108
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 16384
+prob = 0.0
+radius = 0.017631462563614166
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 128
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 23170
+prob = 0.0
+radius = 0.014826253116437933
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 152
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 32768
+prob = 0.0
+radius = 0.012467136497402186
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 181
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 46341
+prob = 0.0
+radius = 0.010483517880473532
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 215
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 65536
+prob = 0.0
+radius = 0.00881552950034282
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 256
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 92682
+prob = 0.0
+radius = 0.007412926592030032
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 304
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 131072
+prob = 0.0
+radius = 0.0062334969102213591
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 362
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 185364
+prob = 0.0
+radius = 0.0052417165225470234
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 431
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 262144
+prob = 0.0
+radius = 0.0044077395285708277
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 512
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 370728
+prob = 0.0
+radius = 0.0037064482992486851
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 609
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 524288
+prob = 0.0
+radius = 0.0031167395379920583
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 724
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 741455
+prob = 0.0
+radius = 0.0026208547265160914
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 861
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 1048576
+prob = 0.0
+radius = 0.0022038666116191655
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 1024
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 1482910
+prob = 0.0
+radius = 0.0018532235247631871
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 1218
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 2097152
+prob = 0.0
+radius = 0.0015583686543621811
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 1448
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 2965821
+prob = 0.0
+radius = 0.0013104264795713719
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 1722
+
+[[instance]]
+generator_to_use = "Geometric"
+node_count = 4194304
+prob = 0.0
+radius = 0.0011019329117273589
+barabasi_m = 0
+distribution = "Uniform"
+seed = 7
+limit = 2048

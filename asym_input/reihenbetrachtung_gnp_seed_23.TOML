@@ -1,0 +1,249 @@
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 1024
+prob = 0.01564027370478983
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 32
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 1448
+prob = 0.0110573600552868
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 38
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 2048
+prob = 0.007816316560820713
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 45
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 2896
+prob = 0.005526770293609672
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 54
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 4096
+prob = 0.003907203907203907
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 64
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 5793
+prob = 0.002762430939226519
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 76
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 8192
+prob = 0.001953363447686485
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 91
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 11585
+prob = 0.00138121546961326
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 108
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 16384
+prob = 0.0009766221082829762
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 128
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 23170
+prob = 0.0006905779274029954
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 152
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 32768
+prob = 0.0004882961516159551
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 181
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 46341
+prob = 0.0003452740612861459
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 215
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 65536
+prob = 0.0002441443503471427
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 256
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 92682
+prob = 0.0001726351679416493
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 304
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 131072
+prob = 0.0001220712438296801
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 362
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 185364
+prob = 8.631711830300546e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 431
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 262144
+prob = 6.103538908153183e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 512
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 370728
+prob = 4.315844273549e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 609
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 524288
+prob = 3.051763633277194e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 724
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 741455
+prob = 2.1579221367745e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 861
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 1048576
+prob = 1.525880361442911e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 1024
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 1482910
+prob = 1.078960340789624e-05
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 1218
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 2097152
+prob = 7.629398169230542e-06
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 1448
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 2965821
+prob = 5.394798065964893e-06
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 1722
+
+[[instance]]
+generator_to_use = "Gnp"
+node_count = 4194304
+prob = 3.814698175119919e-06
+radius = 0.0
+barabasi_m = 0
+distribution = "Uniform"
+seed = 23
+limit = 2048

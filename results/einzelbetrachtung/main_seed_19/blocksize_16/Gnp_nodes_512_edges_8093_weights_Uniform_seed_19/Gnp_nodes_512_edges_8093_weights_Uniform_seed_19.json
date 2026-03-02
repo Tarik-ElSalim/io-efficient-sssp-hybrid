@@ -1,0 +1,73 @@
+{
+  "meta": {
+    "dirname": "Gnp_nodes_512_edges_8093_weights_Uniform_seed_19"
+  },
+  "instance": {
+    "generator": "Gnp",
+    "node_count": 512,
+    "seed": 19,
+    "start_node_seed": 5,
+    "distribution": "Uniform",
+    "prob": 0.03131115459882583,
+    "radius": 0.0,
+    "barabasi_m": 0,
+    "limit": -1
+  },
+  "graph": {
+    "n_nodes": 512,
+    "n_edges": 8093,
+    "start_node": 261,
+    "reach_ratio": 0.998046875,
+    "reachable_n": 512,
+    "blocksize": 16,
+    "e_b": 506
+  },
+  "baselines": {
+    "io_dijkstra": 512,
+    "io_bellman_full": 6578
+  },
+  "dijkstra_best_switch": {
+    "switch_point_best_single_switch": 512,
+    "io_best_single_switch": 512.0
+  },
+  "bellman_ford": {
+    "iters_done": 13,
+    "io_full": 6578
+  },
+  "multi_switch": {
+    "io_multi_switch": 512,
+    "num_phases": 1
+  },
+  "greedy_hybrid": {
+    "io_greedy_hybrid": -1,
+    "len": 1,
+    "num_bf": 0,
+    "num_dj": 0
+  },
+  "hybrid_opt_with_ip": {
+    "io_hybrid_opt": -1,
+    "is_spdag?": false
+  },
+  "landmark": {
+    "io_landmark": 6715,
+    "landmark_R_R2": 6,
+    "landmark_seed": 42
+  },
+  "stats": {
+    "level_counts": [
+      1,
+      6,
+      13,
+      23,
+      29,
+      52,
+      64,
+      79,
+      102,
+      70,
+      44,
+      20,
+      9
+    ]
+  }
+}

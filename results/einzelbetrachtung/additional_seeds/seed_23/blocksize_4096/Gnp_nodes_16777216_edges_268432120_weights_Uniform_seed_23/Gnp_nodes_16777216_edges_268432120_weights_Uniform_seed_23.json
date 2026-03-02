@@ -1,0 +1,99 @@
+{
+  "meta": {
+    "dirname": "Gnp_nodes_16777216_edges_268432120_weights_Uniform_seed_23"
+  },
+  "instance": {
+    "generator": "Gnp",
+    "node_count": 16777216,
+    "seed": 23,
+    "start_node_seed": 5,
+    "distribution": "Uniform",
+    "prob": 9.536743732496722e-07,
+    "radius": 0.0,
+    "barabasi_m": 0,
+    "limit": -1
+  },
+  "graph": {
+    "n_nodes": 16777216,
+    "n_edges": 268432120,
+    "start_node": 14968485,
+    "reach_ratio": 0.9999998807907104,
+    "reachable_n": 16777215,
+    "blocksize": 4096,
+    "e_b": 65536
+  },
+  "baselines": {
+    "io_dijkstra": 16777215,
+    "io_bellman_full": 2555904
+  },
+  "dijkstra_best_switch": {
+    "switch_point_best_single_switch": 249626,
+    "io_best_single_switch": 1429274.0
+  },
+  "bellman_ford": {
+    "iters_done": 39,
+    "io_full": 2555904
+  },
+  "multi_switch": {
+    "io_multi_switch": 1141932,
+    "num_phases": 4
+  },
+  "greedy_hybrid": {
+    "io_greedy_hybrid": -1,
+    "len": 1,
+    "num_bf": 0,
+    "num_dj": 0
+  },
+  "hybrid_opt_with_ip": {
+    "io_hybrid_opt": -1,
+    "is_spdag?": false
+  },
+  "landmark": {
+    "io_landmark": 6184010,
+    "landmark_R_R2": 19,
+    "landmark_seed": 42
+  },
+  "stats": {
+    "level_counts": [
+      1,
+      15,
+      131,
+      647,
+      2594,
+      8853,
+      25127,
+      61359,
+      133681,
+      258925,
+      450135,
+      706805,
+      1011483,
+      1323368,
+      1596875,
+      1774342,
+      1824076,
+      1744379,
+      1553003,
+      1289517,
+      1001014,
+      729203,
+      501101,
+      326039,
+      199950,
+      116280,
+      65284,
+      35556,
+      18888,
+      9790,
+      4804,
+      2256,
+      1008,
+      433,
+      187,
+      76,
+      22,
+      7,
+      1
+    ]
+  }
+}
