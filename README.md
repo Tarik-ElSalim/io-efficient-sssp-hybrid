@@ -23,8 +23,8 @@ Die Hybrid-Abfolge wird formal als **Schedule-Optimierungsproblem auf dem Shorte
 Über einen Schnellstart kann eine beispielhafte Einzelbetrachtung ausgeführt und der Code schnell getestet werden:
 
 ~~~bash
-git clone https://gitlab.ae.cs.uni-frankfurt.de/telsalim/io-efficient-shortest-paths-master-thesis.git
-cd io-efficient-shortest-paths-master-thesis
+git clone https://github.com/Tarik-ElSalim/io-efficient-sssp-hybrid.git
+cd io-efficient-sssp-hybrid
 pip install -r requirements.txt
 python main.py
 ~~~
